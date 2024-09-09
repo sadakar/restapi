@@ -1,0 +1,25 @@
+[ {
+  "firstName" : "Robert",
+  "lastName" : "Densir",
+  "age" : 30,
+  "salary" : 75000.0,
+  "designation" : "Manager",
+  "contactNumber" : "123456",
+  "emailId" : "robert@test.com"
+}, {
+  "firstName" : "Stella",
+  "lastName" : "Henri",
+  "age" : 28,
+  "salary" : 65000.0,
+  "designation" : "Developer",
+  "contactNumber" : "896836436483",
+  "emailId" : "stella@test.com"
+}, {
+  "firstName" : "Anni",
+  "lastName" : "Kopruz",
+  "age" : 34,
+  "salary" : 95000.0,
+  "designation" : "Sr Manager",
+  "contactNumber" : "998973240",
+  "emailId" : "anni@test.com"
+} ]

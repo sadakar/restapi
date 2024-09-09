@@ -1,0 +1,50 @@
+{
+  "companyName" : "Pochampalli IT Labs",
+  "companyEmailId" : "pochampalli@email.com",
+  "companyNumber" : "99897654321",
+  "companyAddress" : "Hyderabad",
+  "supportedSalaryBanks" : [ "AIB", "BOI", "PSB" ],
+  "employeePojo" : [ {
+    "firstName" : "Sadakar",
+    "lastName" : "Pochampalli",
+    "age" : 30,
+    "salary" : 75000.0,
+    "designation" : "Software Engineer",
+    "contactNumber" : "89898989898",
+    "emailId" : "sadakar@email.com"
+  }, {
+    "firstName" : "Hasini",
+    "lastName" : "Bommani",
+    "age" : 28,
+    "salary" : 65000.0,
+    "designation" : "Software Engineer",
+    "contactNumber" : "898955652",
+    "emailId" : "hasini@email.com"
+  }, {
+    "firstName" : "Ram",
+    "lastName" : "Bandari",
+    "age" : 35,
+    "salary" : 95000.0,
+    "designation" : "Manager - Software Engineer",
+    "contactNumber" : "12345678",
+    "emailId" : "ram@email.com"
+  } ],
+  "contractorPojo" : [ {
+    "firstName" : "John",
+    "lastName" : "Mathew",
+    "contractFrom" : "Jan-2018",
+    "contractTo" : "Aug-2012",
+    "contactNumber" : "468364836483"
+  }, {
+    "firstName" : "Seema",
+    "lastName" : "Dhora",
+    "contractFrom" : "Jan-2018",
+    "contractTo" : "Aug-2012",
+    "contactNumber" : "54545454545"
+  } ],
+  "companyPfPOJO" : {
+    "pfName" : "XYZ",
+    "pfYear" : 2020,
+    "noOfEmployees" : 100
+  }
+}
