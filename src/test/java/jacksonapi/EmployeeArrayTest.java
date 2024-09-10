@@ -72,7 +72,7 @@ public class EmployeeArrayTest {
         // Converting Employee Json string to Employee class object
         List<EmployeeArray> allEmployeeDetails = null;
         try{
-            allEmployeeDetails = mapper.readValue(new File("src//test//resources//testdata//employeearray.json"), new TypeReference<List<EmployeeArray>>() {
+            allEmployeeDetails = mapper.readValue(new File("src//test//resources//testdata//jackson-api//employeearray.json"), new TypeReference<List<EmployeeArray>>() {
             });
         }catch (StreamReadException e){
             e.printStackTrace();

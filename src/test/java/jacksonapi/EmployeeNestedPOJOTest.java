@@ -100,7 +100,7 @@ public class EmployeeNestedPOJOTest {
 
         // Save json payload as a file in the project directory
         String userDirectory = System.getProperty("user.dir");
-        mapper.writerWithDefaultPrettyPrinter().writeValue(new File(userDirectory+"\\src\\test\\resources\\testdata\\NestedEmployeePayload.json"),empNestedPojo);
+        mapper.writerWithDefaultPrettyPrinter().writeValue(new File(userDirectory+"\\src\\test\\resources\\testdata\\jackson-api\\NestedEmployeePayload.json"),empNestedPojo);
 
     }
 }
