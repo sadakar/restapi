@@ -1,0 +1,11 @@
+{
+  "skillset" : [ "Java", "Teradata", "Python", "Power BI" ],
+  "gender" : "female",
+  "DOB" : "12-02-1985",
+  "name" : "Sadakar",
+  "contactNumber" : "998972222",
+  "employeeId" : "1234",
+  "location" : "Dublin",
+  "emailId" : "abc@test.com",
+  "salary" : "75000.0"
+}
